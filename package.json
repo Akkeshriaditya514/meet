@@ -1,9 +1,9 @@
 {
-  "name": "socket-project",
+  "name": "meeting",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "proxy":"https://meet.adityaprojects.xyz",
+  "proxy":"https://meet.proctor.tk",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
